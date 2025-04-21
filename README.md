@@ -22,9 +22,6 @@ To get started with the Store Dashboard, follow these steps:
 ## Usage
 Interact with the Store Dashboard by navigating through the various sections, including sales monitoring, data visualization, and settings.
 
-## Configuration
-No specific configuration details are required for this project.
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the Store Dashboard, please submit a pull request with your changes.
 
